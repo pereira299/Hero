@@ -1,0 +1,11 @@
+.card{
+    background-color: rgb(232, 232, 232) !important;
+}
+
+
+.header{
+    position: fixed !important;
+    z-index: 200;
+    background: #f0f0f5;
+    margin-top: -4% !important;
+}

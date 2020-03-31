@@ -11,7 +11,7 @@ routes.post("/ongs", ongs.create);
 routes.get("/ongs", ongs.list);
 
 //Perfil
-routes.get("/profile", profile.list);
+routes.get("/perfil", profile.list);
 
 // Sessão
 routes.post("/sessao", sessao.login);
